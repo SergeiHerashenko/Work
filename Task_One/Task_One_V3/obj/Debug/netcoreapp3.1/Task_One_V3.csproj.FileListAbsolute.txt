@@ -1,0 +1,13 @@
+E:\Test_Work_Uklon\Task_One\Task_One_V3\bin\Debug\netcoreapp3.1\Task_One_V3.exe
+E:\Test_Work_Uklon\Task_One\Task_One_V3\bin\Debug\netcoreapp3.1\Task_One_V3.deps.json
+E:\Test_Work_Uklon\Task_One\Task_One_V3\bin\Debug\netcoreapp3.1\Task_One_V3.runtimeconfig.json
+E:\Test_Work_Uklon\Task_One\Task_One_V3\bin\Debug\netcoreapp3.1\Task_One_V3.runtimeconfig.dev.json
+E:\Test_Work_Uklon\Task_One\Task_One_V3\bin\Debug\netcoreapp3.1\Task_One_V3.dll
+E:\Test_Work_Uklon\Task_One\Task_One_V3\bin\Debug\netcoreapp3.1\Task_One_V3.pdb
+E:\Test_Work_Uklon\Task_One\Task_One_V3\obj\Debug\netcoreapp3.1\Task_One_V3.csprojAssemblyReference.cache
+E:\Test_Work_Uklon\Task_One\Task_One_V3\obj\Debug\netcoreapp3.1\Task_One_V3.AssemblyInfoInputs.cache
+E:\Test_Work_Uklon\Task_One\Task_One_V3\obj\Debug\netcoreapp3.1\Task_One_V3.AssemblyInfo.cs
+E:\Test_Work_Uklon\Task_One\Task_One_V3\obj\Debug\netcoreapp3.1\Task_One_V3.csproj.CoreCompileInputs.cache
+E:\Test_Work_Uklon\Task_One\Task_One_V3\obj\Debug\netcoreapp3.1\Task_One_V3.dll
+E:\Test_Work_Uklon\Task_One\Task_One_V3\obj\Debug\netcoreapp3.1\Task_One_V3.pdb
+E:\Test_Work_Uklon\Task_One\Task_One_V3\obj\Debug\netcoreapp3.1\Task_One_V3.genruntimeconfig.cache
